@@ -1,3 +1,10 @@
+name: Generate Datas
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
@@ -21,3 +28,4 @@
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
