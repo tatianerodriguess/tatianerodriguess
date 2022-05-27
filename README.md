@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 📫 Estudando sobre javascript, python, html e MySQL.
+- 📫 Estudando sobre java, python, MySQL e Marchine learning.
 
 <div>
   <a href="https://github.com/tatianerodriguess">
