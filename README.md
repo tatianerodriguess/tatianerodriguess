@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 📫 Estudando sobre java, python, MySQL e Marchine learning.
+- 📫 Blockchain e Marchine learning.
 
 <div>
   <a href="https://github.com/tatianerodriguess">
