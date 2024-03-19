@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 📫 Blockchain e Marchine learning.
+- 📫 Software engineer.
 
 <div>
   <a href="https://github.com/tatianerodriguess">
